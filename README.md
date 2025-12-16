@@ -39,8 +39,8 @@ Tip: Keep it short; let your pinned repos speak.
 
 <div align="center">
 
-<img height="165" alt="GitHub Stats"
-     src="https://github-readme-stats.vercel.app/api?username=yorumayo&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
+<!-- <img height="165" alt="GitHub Stats"
+     src="https://github-readme-stats.vercel.app/api?username=yorumayo&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" /> -->
 
 <img height="165" alt="Streak Stats"
      src="https://streak-stats.demolab.com?user=yorumayo&hide_border=false" />
@@ -48,7 +48,7 @@ Tip: Keep it short; let your pinned repos speak.
 </div>
 
 <div align="center">
-  <sub>Goal: <YOUR_WEEKLY_GOAL> (e.g., “5 active days/week”).</sub>
+  <sub>Goal: 5 active days/week. </sub>
 </div>
 
 ---
