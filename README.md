@@ -40,10 +40,10 @@ Tip: Keep it short; let your pinned repos speak.
 <div align="center">
 
 <img height="165" alt="GitHub Stats"
-     src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
+     src="https://github-readme-stats.vercel.app/api?username=yorumayo&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
 
 <img height="165" alt="Streak Stats"
-     src="https://streak-stats.demolab.com?user=<YOUR_USERNAME>&hide_border=false" />
+     src="https://streak-stats.demolab.com?user=yorumayo&hide_border=false" />
 
 </div>
 
